@@ -1,0 +1,17 @@
+SPECIES.common,SPECIES,FAM,G.TOL,G.TROPH,G.REPRO,G.HAB,G.MIG
+Lake Chub,LKCH,Cyprinidae,TOLE,OMNI,LITH,EURY,POTA
+Northern Redbelly Dace,NRDC,Cyprinidae,INT,OMNI,PHYT,WATE,LOCAL
+Finescale Dace,FNDC,Cyprinidae,TOLE,OMNI,PHLI,WATE,LOCAL
+Pearl Dace,PRDC,Cyprinidae,TOLE,OMNI,LITH,EURY,LOCAL
+Northern Redbelly Dace X Finescale Dace,NFDC,Cyprinidae,TOLE,OMNI,PHLI,WATE,LOCAL
+Redside Shiner,RDSH,Cyprinidae,TOLE,OMNI,PHLI,EURY,POTA
+Longnose Dace,LNDC,Cyprinidae,INT,INSE,LITH,RHEO,LOCAL
+White Sucker,WHSC,Catastomidae,TOLE,INSE,LITH,EURY,POTA
+Longnose Sucker,LNSC,Catastomidae,INT,INSE,LITH,EURY,POTA
+Trout-perch,TRPR,Percopsidae,INTO,INSE,LITH,WATE,POTA
+Burbot,BURB,Lotidae,INTO,PISC,LITH,BENTH,LOCAL
+Brook Stickleback,BRST,Gasterosteidae,TOLE,INSE,PHYTd,WATE,LOCAL
+Arctic Grayling,ARGR,Salmonidae,INTO,INSE,LITH,RHEO,POTA
+Mountain Whitefish,MNWH,Salmonidae,INTO,INSE,LITH,RHEO,POTA
+Bull Char,BLTR,Salmonidae,INTO,PISC,LITH,RHEO,POTA
+Slimy Sculpin,SLSC,Cottidae,INTO,INSE,LITHc,BENTH,LOCAL
